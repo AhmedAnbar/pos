@@ -1,0 +1,13 @@
+{
+    "name": "RolesPirmissions",
+    "alias": "rolespirmissions",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\RolesPirmissions\\Providers\\RolesPirmissionsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
